@@ -3,4 +3,4 @@
 pip install numpy pandas matplotlib seaborn jupyter streamlit  
 
 # menjalankan kode
-streamlit run dashboard.py or streamlit run
+streamlit run dashboard.py or streamlit run https://github.com/daynalb/proyek1dayn/blob/main/dashboard.py
